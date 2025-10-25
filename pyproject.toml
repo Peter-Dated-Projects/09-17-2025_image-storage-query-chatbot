@@ -1,0 +1,7 @@
+[project]
+name = "09-17-2025-image-storage-query-chatbot"
+version = "0.1.0"
+description = "Image database indexing system that stores data in vector databases and allows RAG for chatbots. Goal is to make searching for certain images easier."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
